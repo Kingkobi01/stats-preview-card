@@ -62,7 +62,7 @@ article {
     display: flex;
     flex-direction: column;
     background: var(--clr-secondary);
-    width: min(90%, 64rem);
+    width: min(90%, 70rem);
     overflow: hidden;
     margin-bottom: 2rem;
 
